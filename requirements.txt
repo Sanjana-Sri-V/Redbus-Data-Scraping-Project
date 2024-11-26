@@ -1,0 +1,7 @@
+streamlit
+selenium
+pandas
+mysql-connector-python
+pymysql
+streamlit-option-menu
+webdriver-manager
